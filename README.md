@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ozkan Selcuk</h1>
+<h1>Hi 👋, I'm Ozkan Selcuk</h1>
 - 🌱 I’m currently learning **React(For MERN Stack)**
 
-- 📫 How to reach me **ozkanselcukwork@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
