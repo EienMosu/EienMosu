@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Ozkan Selcuk</h1>
 <br>
-<a href="https://dazzling-cori-b8fb48.netlify.app/">My Portfolio Website</a> 
-<br>
 <br>
 - 🌱 I’m currently learning **React(For MERN Stack)**
 <br>
