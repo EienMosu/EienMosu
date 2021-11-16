@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Ozkan Selcuk</h1>
 <br>
 <br>
-- 🌱 I’m currently learning **React-Redux**
+- 🌱 I’m currently learning **Next JS**
 <br>
 <br>
 <h3 align="left">Languages:</h3>
