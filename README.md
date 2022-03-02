@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 💬 Ask me about **React, Javascript(ES13), Redux, NextJS, Typescript, NodeJS, ExpressJS, JWT, MongoDB, HTML, CSS(SASS, Styled Components)**
+- 💬 Ask me about **React, Redux, Typescript, NodeJS, ExpressJS, MongoDB, NextJS**
 
 - 📫 How to reach me **ozkanselcukwork@gmail.com**
 
