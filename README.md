@@ -1,11 +1,11 @@
 <h1 align="center"> Ozkan Selcuk</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Frontend Developer / Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eienmosu" alt="eienmosu" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eienmosu" alt="eienmosu" /></a> </p>
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 💬 Ask me about **React, Redux, Typescript, NodeJS, ExpressJS, MongoDB, NextJS**
+- 💬 Ask me about **React, Redux, Typescript-Javascript(ES6+), NextJS, NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **ozkanselcukwork@gmail.com**
 
